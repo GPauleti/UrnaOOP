@@ -1,5 +1,5 @@
-# 
-Java Voting Machine Simulator
+# Java Voting Machine Simulator
+
 Welcome to the Java Voting Machine Simulator, a robust and user-friendly application designed to simulate the entire voting process, from voter registration to result analysis. This project aims to provide a comprehensive platform for managing elections at various levels, including presidential, gubernatorial, and mayoral elections.
 
 Features
