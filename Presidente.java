@@ -9,5 +9,6 @@ public Presidente(String nome, String partido, int numero){
     this.nome = nome;
     this.partido = partido;
     this.numero = numero;
+    //Cadastra o presidente e so aceita o lula
 }
 }
